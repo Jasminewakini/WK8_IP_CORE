@@ -22,7 +22,9 @@ Determineing whether or not a patient's symptoms indicate that the patient has h
 
 * Exploratory data analysis techniques.
 
-* Regression Analysis
+* Decision Trees (Random Forest)
+
+* Support Vector Machine
 
 
 ## Known Bugs
